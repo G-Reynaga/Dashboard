@@ -480,19 +480,19 @@ div .card,
 
   .details .recentOrders table {
     width: 80px;
-    font-size: 13px;
+    font-size: 16px;
   }
   .delivered {
-    font-size: 10px;
+    font-size: 16px;
   }
   .pending {
-    font-size: 10px;
+    font-size: 16px;
   }
   .return {
-    font-size: 10px;
+    font-size: 16px;
   }
   .inprogress {
-    font-size: 8.2px;
+    font-size: 12px;
   }
   .navigation {
     width: 100%;
